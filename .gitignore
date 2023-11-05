@@ -36,3 +36,4 @@ terraform.rc
 
 # misc
 **/.DS_Store
+*.pem
