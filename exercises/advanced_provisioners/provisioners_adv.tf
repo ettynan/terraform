@@ -1,8 +1,4 @@
-provider "aws" {
-  region     = "us-west-2"
-  access_key = "AKIAVFWC2CST5L5XJKOD"
-  secret_key = "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"
-}
+
 
 resource "aws_security_group" "allow_port22" {
   name = "allow_port22"
