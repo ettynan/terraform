@@ -1,5 +1,3 @@
-
-
 resource "aws_security_group" "allow_port22" {
   name = "allow_port22"
 
